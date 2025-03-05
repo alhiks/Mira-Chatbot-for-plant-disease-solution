@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="536ae4d8-4418-4fdf-8826-b653a1c131ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/miraChat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ask.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bengali/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bengali/computer.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bengali/emotions.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bengali/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/gossip.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/humor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/movies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/politics.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/psychology.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/science.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chinese/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/computers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/health.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/humor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/movies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/politics.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/psychology.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/science.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/english/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/french/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/french/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/french/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/french/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/french/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/german/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/german/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/german/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/german/health.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/german/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hebrew/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hebrew/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hebrew/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hindi/coversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hindi/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/indonesian/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/indonesian/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/indonesian/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/italian/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/italian/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/italian/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/italian/health.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/italian/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/italian/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/italian/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/computers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/gossip.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/health.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/humor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/movies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/politics.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/psychology.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/science.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/japanese/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/computers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/gossip.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/health.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/humor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/movies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/politics.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/psychology.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/science.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/korean/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/marathi/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/marathi/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/oriya/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/oriya/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/computers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/gossip.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/humor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/movies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/politics.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/profile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/psychology.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/science.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/persian/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/compliment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/games.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/linguistic_knowledge.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/proverbs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/suggestions.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/portuguese/unilab.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/russian/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/russian/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/russian/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/IA.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/dinero.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/emociones.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/perfilbot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/psicologia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spanish/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/swedish/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/swedish/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/swedish/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/swedish/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/swedish/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/telugu/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/thai/greeting.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/gossip.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/history.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/humor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/literature.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/money.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/movies.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/politics.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/psychology.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/science.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/sports.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/traditionalchinese/trivia.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/turkish/ai.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/turkish/botprofile.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/turkish/conversations.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/turkish/emotion.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/turkish/food.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/turkish/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/greetings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mira_plant_disease_training.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ngrok.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic.jpeg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2tj9IOhFwZy8Ne3tsTVounI4G23" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/PycharmProjects/miraChat&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\PycharmProjects\miraChat" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pip install PIL" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="miraChat" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="536ae4d8-4418-4fdf-8826-b653a1c131ce" name="Changes" comment="" />
+      <created>1740854535716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740854535716</updated>
+    </task>
+    <servers />
+  </component>
+</project>
